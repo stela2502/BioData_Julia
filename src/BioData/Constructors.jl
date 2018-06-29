@@ -1,6 +1,6 @@
 
 "The most basic constructor"
-immutable BioData
+immutable BioData{}
       data::SparseMatrixCSC
       samples::DataFrame
       annotation::DataFrame
